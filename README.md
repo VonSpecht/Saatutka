@@ -1,4 +1,4 @@
-# Saatutka
+# Säätutka (Weather Radar)
 A very simple and responsive web application (PHP/JS) for looking a local temperature using OpenWeatherMap API.
 
 A working example can be find here: http://henritikkanen.info/temp/saatutka
